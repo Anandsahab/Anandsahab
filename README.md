@@ -1,4 +1,6 @@
-![logo](https://githubusercontent.com/Anandsahab/Anandsahab/main/github-banner.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anandsahab/Anandsahab/main/github-banner.png" alt="Chaitanya Anand's GitHub Banner">
+</p>
 
 
 
